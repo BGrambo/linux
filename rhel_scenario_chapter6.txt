@@ -1,0 +1,12 @@
+You are managing a server named WebAppSrv and tasked with handling user and group management for new developers joining the team.
+
+    Task 1: Add a new user named dev_jane to the system, ensuring her account is created without a password for now.
+
+    Task 2: Modify the user dev_jane to add her to a group named developers. If the group doesn't already exist, you will need to create it.
+
+    Task 3: Set the password expiry for dev_jane so that she is forced to change her password after 30 days.
+
+    Task 4: Verify that the user dev_jane is now part of the developers group and view her account information to confirm her user ID and group memberships.
+
+Server: WebAppSrv
+Current Directory: /home/admin

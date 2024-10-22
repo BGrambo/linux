@@ -1,0 +1,12 @@
+You are managing a server named DataProcessingSrv where you need to handle some data processing scripts. Today’s task involves running a script and managing its output in various ways.
+
+    Task 1: Run the script data_cleaner.sh located in /scripts/ and redirect its standard output to a file named output.log in the /logs/ directory, overwriting any existing content.
+
+    Task 2: Run the same data_cleaner.sh script again, but this time, append the output to the output.log file.
+
+    Task 3: When running the script, redirect any errors it generates to a file named error.log in the /logs/ directory, ensuring the errors are captured without affecting the output redirection.
+
+    Task 4: Finally, ensure both output and errors from the script are appended to a single file named combined.log in the /logs/ directory.
+
+Server: DataProcessingSrv
+Current Directory: /home/admin

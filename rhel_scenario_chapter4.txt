@@ -1,0 +1,8 @@
+You are working as a Linux system administrator for the server DevOpsLogsServer, and your colleague has tasked you with exploring some essential commands to ensure you are familiar with their usage and options.
+
+    You need to check the manual for the ls command to review its options and usage.
+    Next, try checking the command documentation for cp using pinfo.
+    You are also asked to explore the usage of the mkdir command but only use the --help option to get a summary of its available flags.
+
+Server: DevOpsLogsServer
+Current Directory: /home/admin

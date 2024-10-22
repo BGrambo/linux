@@ -1,0 +1,12 @@
+You are managing a file server named FileSrv01 where permissions need to be adjusted for security and access control.
+
+    Task 1: In the directory /project_data/, you find a file named confidential.txt. Set the permissions so that only the owner has read and write access, and no one else can access the file.
+
+    Task 2: Change the ownership of the directory /project_data/reports/ to the user project_manager and the group managers.
+
+    Task 3: You notice the default permission settings when creating new files are too open. Change the umask so that any newly created files will have permissions rw-r----- by default.
+
+    Task 4: Verify the current umask setting on the server.
+
+Server: FileSrv01
+Current Directory: /home/admin
