@@ -1,0 +1,9 @@
+Here's your scenario for Chapter 2:
+
+Scenario: You are managing user accounts and logs on a server.
+
+    Create a new user called developer_jane.
+    Set the password for developer_jane to DevPass123.
+    Log in as developer_jane and verify your identity by checking which user you are currently logged in as.
+    After that, print the last 10 entries from the bash history of developer_jane.
+    Finally, display the word count of /var/log/auth.log.

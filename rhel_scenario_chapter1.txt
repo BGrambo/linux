@@ -1,0 +1,8 @@
+For Chapter 1, here's your scenario:
+
+Scenario: You are tasked with verifying some basic information on a remote system.
+
+    Log into the remote server named WebServer001 using SSH with the username admin_user.
+    Once logged in, check which user you are currently logged in as.
+    After that, find out the current date and time on the server.
+    Finally, check what type of file the /var/log/syslog file is, and display the first 5 lines of its content.

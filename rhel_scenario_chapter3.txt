@@ -1,0 +1,11 @@
+Here’s your scenario for Chapter 3:
+
+Scenario: You are organizing files and directories for a new project.
+
+    Navigate to the /home/admin_user/projects directory.
+    Inside this directory, create a new folder named webapp.
+    Create two empty files inside the webapp folder: index.html and app.js.
+    Move the index.html file to a new folder called html inside webapp.
+    Copy the app.js file to the /home/admin_user/backups/ directory.
+    Afterward, delete the webapp/html directory along with its contents.
+    Finally, remove the app.js file from the /home/admin_user/backups/ directory.
